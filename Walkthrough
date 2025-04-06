@@ -1,0 +1,23 @@
+Step 1:
+
+Look at the ReadMe file and notice that the words Completely Frank are capitalized, indicating that it is a name, not just two words. When you do an OSINT search on Facebook,
+you will find a profile named Completely Frank. it gives you the first part of the CTF and a clue under the About you section.
+CTF: {a2R4c0T_
+
+Step 2:
+
+Go to the website linked within the profile, and it will take you to a page with the entire book Faherenheit 451 but the words whited out. This is to create more of a challenge.
+The Facebook profile says there is one relative, a Nephew named Arthur. Doing a word search on the website for Arthur gives you the second part of the CTF.
+f3Rw643_
+
+Step 3:
+Doing a word search for Nephew, you will find the hint "(A real person's professional picture is worth 1000 words)" If you use the only real names given (Arthur and Frank)
+and search in LinkedIn(hence the word professional)You will find a profile named Arthur Frank with the profile picture of a coffee cup. Searching up Coffee back on the webpage,
+you will find the final piece of the CTF.
+Ghr68E7}
+
+Here is the final product put together:
+
+CTF: {a2R4c0T_f3Rw643_Ghr68E7}
+
+
